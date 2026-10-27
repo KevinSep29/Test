@@ -9,7 +9,7 @@ public class ElectricFan extends JPanel{
 		super.paintComponent(g);
 		
 		g.setColor(Color.GRAY);
-		g.fillOval(295, 95, 210, 210);
+		g.fillOval(10000, 95, 210, 210);
 		g.setColor(Color.WHITE);
 		g.fillOval(300, 100, 200, 200);
 		
